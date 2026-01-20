@@ -45,6 +45,7 @@ body{
 }
 .menu:hover{
     width: 260px;
+    transition: 1;
 }
 ul{
     list-style: none;
@@ -145,4 +146,5 @@ th{
     border-radius:6px;
     color: black;
 }
+
 
